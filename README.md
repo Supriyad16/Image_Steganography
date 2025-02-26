@@ -1,4 +1,4 @@
-# Image_Steganography
+# Secure Data Hiding in Image Using Steganography
 
 The project is a GUI-based Image Steganography tool built using Python, Tkinter, and PIL (Pillow). It allows users to hide text inside images (encoding) and extract hidden text from images (decoding) using LSB (Least Significant Bit) Steganography.
 
