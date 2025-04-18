@@ -53,7 +53,7 @@ To install dependencies, run: pip install pillow
     
 # License
 
-This project is open-source under the MIT License. See the LICENSE file for details.
+This project is open-source under the MIT License.
 
 # Author
 
